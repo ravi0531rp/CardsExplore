@@ -1,2 +1,3 @@
 cardwise_data/images
 .env
+*/__pycache__/
