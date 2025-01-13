@@ -1,0 +1,40 @@
+{
+    "card_name": "HDFC Bank Doctor's Superia Credit Card",
+    "card_issuer": "HDFC Bank",
+    "fee_details": "* 1st-year fee: Rs.1,000 ( waived on spend of Rs.1,50,000 in the first 90 days)\n* 2nd-year onwards: Rs.1,000 ( waived on annual spend of Rs.1.5 Lakh in the previous year)",
+    "joining_perks": "1000 points as welcome gift",
+    "reward_structure": "* 3Reward Points per Rs.200 spent on retail purchases.\n* 50% more Reward Points when you dine at restaurants.",
+    "key_highlights": "* 3Reward Points per Rs.200 spent\n* Welcome benefit of 1,000 Reward Points and renewal benefit of Rs.1,000 points.\n* 50% more Reward Points when used at restaurants.",
+    "benefits_features": {
+        "Travel benefits": "Redeem your points for flight tickets from over 20 International airlines. ",
+        "Dining benefits": "50% more Reward Points when you dine at restaurants.",
+        "Insurance Coverage": "Minimum of Rs.5,00,000 for loss of cash, cards, and more. Up to Rs.25,00,000 complimentary accidental death and dismemberment insurance coverage. Purchase protection for fire, burglary and theft. For personal equipment, the insurance coverage is up to Rs.25,000 per item. The coverage is up to Rs.25000 for all other assets.",
+        "Air Voucher": "Spend minimum Rs. 5 Lakh and redeem your points for an air voucher worth Rs.8000 for corresponding air miles",
+        "Welcome Benefits and Renewal Benefit": "Get 1000 Reward Points when you apply for your card as a welcome gift. Each time you renew your card membership, you get 1000 Reward Points."
+    },
+    "how_tos": {
+        "How to Redeem Reward Points": "You can redeem your Reward Points by:\n\u2022 Converting them to KrisFlyer miles and redeeming them for flight tickets from over 20 international airlines.\n\u2022 Redeeming your points for gifts and vouchers from HDFC's reward catalogue.",
+        "How to Apply for The HDFC Bank Doctor's Superia Credit Card Online": "You can apply for an HDFC Bank Doctor's Superia Credit Card online on the bank's website. When you select the Apply Now option on the website, you will be redirected to a page with the credit card application form. Fill in the required details. These details include your mobile number, PAN number, and your income. Once you submit the form, you will either receive an SMS from the bank or a call from an HDFC representative."
+    },
+    "reward_point_benefits": "You already know that you get 3 Reward Points for every Rs.200 you spend. You also get 50% more Reward Points when you use your credit card at restaurants. Additionally, you can earn points as an accelerated rate with the welcome and renewal bonus.",
+    "fees_and_charges": {
+        "First-year fee": "Rs.1,000 (waived if you spend Rs.1,50,000 within the first 90 days of card set-up)",
+        "Annual fee (second year onwards)": "Rs.1,000 (waived on annual spend of Rs.1.5 Lakh in the previous year)",
+        "Interest rate": "3.49% per month",
+        "Minimum repayment": "5% of the outstanding amount or Rs.500, whichever is greater",
+        "Late payment fee": "* Less than or equal to Rs.100: Nil\n* Rs.101 to Rs.500: Rs.100\n* Rs.501 to Rs.1,000: Rs.150\n* Rs.1,001 to Rs.5,000: Rs.250\n* Rs.5,001 to Rs.10,000: Rs.250\n* Rs.10,001 to Rs.25,000: Rs.400\n* Rs.25,001 to Rs.50,000: Rs.700\n* Rs.50,001 to Rs.1,00,000: Rs.1,100\n* More than Rs.1,00,000: Rs.1,300",
+        "Cash advance limit": "40% of the credit limit",
+        "Cash advance charge": "2.5% of the amount withdrawn or Rs.500, whichever is higher",
+        "Over limit charge": "2.5% of the amount that is over the limit or Rs.500, whichever is higher",
+        "Fuel surcharge waiver": "Capped at Rs.250 per billing cycle (GST on surcharge waiver is not reimbursable)",
+        "Foreign currency mark-up fee": "3.5% of the transacted amount"
+    },
+    "miscellaneous": "Zero Liability If you lose your card and discover that there have been stolen, call HDFC's customer care immediately. The bank will block your card and you won't be held liable for unauthorized transactions made on your card.",
+    "faqs": {
+        "What is the validity of the Reward Points I earn?": "Your Reward Points are valid for 3 years from the date on which you accumulate them. For instance, if you earn points on June 24, they will be valid until June 2026.",
+        "Will I get 500 more Reward Points when dining at restaurants?": "Yes, the 50% more Reward Points only applies if you dine at restaurants. Therefore, you get these points on transactions done under the \"Restaurants\" merchant category only. MBCs are classified under \"Hotel\" merchant category codes. So, dining at a restaurant in a hotel will be eligible for this reward.",
+        "Do I earn reward points when insurance payments are made with a credit card?": "Yes. However, Reward Points earned on insurance transactions will be capped at 2,000 Reward Points per transaction.",
+        "Can I convert my points to air miles of any frequent flyer programme of my choice?": "No. You cannot convert your points to air miles of any frequent flyer programme or airline. However, you can redeem your flyer miles for tickets from over 20 international airlines carriers.",
+        "What is the interest-free period available with the Doctor's Card?": "You get to enjoy an interest-free period of up to 50 days with the HDFC Bank Doctor's Superia Credit Card."
+    }
+}

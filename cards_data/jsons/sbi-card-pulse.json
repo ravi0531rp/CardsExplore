@@ -1,0 +1,45 @@
+{
+    "card_name": "SBI Card Pulse",
+    "card_issuer": "State Bank of India",
+    "fee_details": "- Annual Fee: Rs.1499 + taxes\n- Renewal Fee: Rs.1499 + taxes\n- Add-on fee: Nil\n- Cash Advance Fee:\n    - 2.5% of the amount withdrawn or Rs.500 (Domestic ATMs)\n    - 3.5% of the amount withdrawn or Rs.500 (International ATMs)\n- Finance Charges: 3.50% per month or 42% per annum\n- Payment dishonor fee: 2% of the payment amount; minimum of Rs.450\n- Statement request: Rs.100 per statement (more than 2 months old)\n- Cheque payment fee: Rs.100\n- Over limit fee: 2.5% of the over limit amount; minimum of Rs.600\n- Rewards redemption fee: Rs.99\n- Foreign currency transaction: 3.50%\n- Late payment:\n    - From Rs.0 to Rs.500: Nil\n    - More than Rs.500 up to Rs.1,000: Rs.400\n    - More than Rs.1,000 up to Rs.5,000: Rs.750\n    - More than Rs.5,000 up to Rs.25,000: Rs.950\n    - More than Rs.25,000 up to Rs.50,000: Rs.1,100\n    - More than Rs.50,000: Rs.1,300",
+    "joining_perks": "Get a Noise ColorFit Pulse Smart Watch worth Rs. 4,999 on joining",
+    "reward_structure": "- Get 2 reward points on every Rs.100 spent.\n- Get 10 reward points on Rs.100 spent on pharmacy, dining and entertainment.\n- Get fraud liability insurance cover worth Rs. 1 lakh\n- Get an accident cover worth Rs. 50 lakh\n- Get a voucher worth Rs.1500 on spending Rs. 4 lakh in a year\n- Get annual membership fee reversed second year onwards, on spending Rs. 2 lakh or more in the previous year",
+    "key_highlights": "- Get one-year NetMeds membership complimentary and one-year FITPASS PRO membership.\n- Get up to eight complimentary domestic lounge access (Every quarter)\n- Get 15% fuel surcharge waived on transactions between Rs.500 to Rs.4000\n- Get Priority Pass Membership worth US$ 99 for the first two years",
+    "benefits_features": {
+        "Travel benefits": "Get up to eight complimentary domestic lounge access (Every quarter)",
+        "Fuel benefits": "Get 15% fuel surcharge waived on transactions between Rs.500 to Rs.4000",
+        "Dining benefits": "Get 10 reward points on Rs.100 spent on pharmacy, dining and entertainment",
+        "Renewal benefits": "Get annual membership fee reversed second year onwards, on spending Rs.2 lakh or more in the previous year",
+        "Lounge benefits": "Get up to eight complimentary domestic lounge access (Every quarter)",
+        "Health benefits": "Get one-year NetMeds membership complimentary and one-year FITPASS PRO membership",
+        "Reward Points": "Get 2 reward points on every Rs.100 spent. Get 10 reward points on Rs.100 spent on pharmacy, dining and entertainment."
+    },
+    "how_tos": {
+        "Balance Transfer on EMI facility": "Step 1: Log into sbicard.com\nStep 2: Select the 'Benefits' link on left hand navigation and choose 'Balance Transfer on EMI' option.\nStep 3: Fill the required details and confirm to book Balance Transfer on EMI option.",
+        "Flexipay facility": "Step 1: Log into sbicard.com\nStep 2: Select the 'Flexipay' option from left hand navigation under the 'Benefits' section.\nStep 3: Select the transaction (Rs.2,500) you want to convert into Flexipay, select the required details and confirm the booking.",
+        "Easy Money facility": "Step 1: Log into sbicard.com\nStep 2: Select the 'Easy Money' option from left hand navigation under the 'Benefits' section.\nStep 3: Fill the required details and book Easy Money instantly."
+    },
+    "reward_point_benefits": "- Get 2 reward points on every Rs.100 spent.\n- Get 10 reward points on Rs.100 spent on pharmacy, dining and entertainment.",
+    "fees_and_charges": {
+        "Annual Fee": "Rs.1499 + taxes",
+        "Renewal Fee": "Rs.1499 + taxes",
+        "Add-on fee": "Nil",
+        "Cash Advance Fee": "2.5% of the amount withdrawn or Rs.500 (Domestic ATMs)\n3.5% of the amount withdrawn or Rs.500 (International ATMs)",
+        "Finance Charges": "3.50% per month or 42% per annum",
+        "Payment dishonor fee": "2% of the payment amount; minimum of Rs.450",
+        "Statement request": "Rs.100 per statement (more than 2 months old)",
+        "Cheque payment fee": "Rs.100",
+        "Over limit fee": "2.5% of the over limit amount; minimum of Rs.600",
+        "Rewards redemption fee": "Rs.99",
+        "Foreign currency transaction": "3.50%",
+        "Late payment": "From Rs.0 to Rs.500: Nil\nMore than Rs.500 up to Rs.1,000: Rs.400\nMore than Rs.1,000 up to Rs.5,000: Rs.750\nMore than Rs.5,000 up to Rs.25,000: Rs.950\nMore than Rs.25,000 up to Rs.50,000: Rs.1,100\nMore than Rs.50,000: Rs.1,300"
+    },
+    "miscellaneous": "The SBI Card Pulse also gives its customers the option to avail easy money for short tenure at a comparatively low rate of interest. With the Easy Money option, the funds get delivered to the customer\u2019s doorstep via a cheque or draft against the cash limit. The customer can also take an instant transfer to the bank account via NEFT.",
+    "faqs": {
+        "Can an add-on card holder avail the Flexipay facility?": "No, the add-on card holder cannot avail the Flexipay facility.",
+        "Does the contactless transaction amount have a limit?": "Yes, the contactless payment mode allows payment up to Rs.5,000 only. For payments above Rs.5,000, the customer has to swipe the credit card.",
+        "On availing the Balance Transfer on EMI facility, can I repay the amount before EMI tenure ends?": "Yes, you can repay the amount before the EMI tenure ends. However, a charge of 3% on the outstanding principal + GST will be applicable.",
+        "How much money can be availed using the Easy Money facility?": "A minimum amount of Rs.5000 and maximum up to 75% of the available cash limit can be availed using the Easy Money facility.",
+        "Can an add-on card holder apply for Easy Money service?": "No, the add-on card holder cannot apply for the Easy Money service."
+    }
+}

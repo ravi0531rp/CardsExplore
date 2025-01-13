@@ -1,0 +1,46 @@
+{
+    "card_name": "HDFC Bank Corporate Platinum Credit Card",
+    "card_issuer": "HDFC Bank",
+    "fee_details": "\u2022 1st Year:  \u20b90\n\u2022 2nd Year Onwards: \u20b90",
+    "joining_perks": "No joining perks",
+    "reward_structure": "\u2022 For every Rs.150 spent, 3 reward points are added.\n\u2022 Accelerated reward points of 10X on expense with merchant partners\n\u2022 Fuel surcharge waiver for all fuel transactions.\n\u2022 Exclusive airport lounge access.",
+    "key_highlights": "\u2022 24*7 MIS availability\n\u2022 Spending analysis offered by category\n\u2022 Expense reports",
+    "benefits_features": {
+        "Lounge Access Benefits": "With this Corporate Platinum card, you can avail up to 8 Airport lounges in the country/year on a complimentary basis.",
+        "Fuel Benefits": "\u2022 Fuel surcharge will be waived by 1% on all the purchase happening between Rs.500-Rs.5000.\n\u2022 This waiver will be applicable at petrol pumps in the country.",
+        "Insurance Benefits": "\u2022 With this credit card, the bank offers you an air accident insurance of Rs.1 crore.\n\u2022 For accidental death in road or train travel, the insurance coverage offered is Rs.10lakh."
+    },
+    "how_tos": {
+        "To redeem your points online, here are the steps you need to follow.": "\u2022 Login to your HDFC Bank net banking account.\n\u2022 Click on \u2018credit cards\u2019.\n\u2022 Register the credit card to the redeem reward points and select \u2018continue\u2019.\n\u2022 You will be redirected to the reward redemption page.\n\u2022 Click on \u2018Redeem Reward Points\u2019.\n\u2022 Select the category of the item you need.\n\u2022 Once done, choose the points range to check the various products.\n\u2022 You can select the items and add them to your cart.\n\u2022 To check this products you have chosen, click on \u2018view your shopping cart\u2019.\n\u2022 Read the terms and conditions and check the box.\n\u2022 Click on \u2018submit\u2019. An redemption order number which is given must be noted for future references."
+    },
+    "reward_point_benefits": "\u2022 For every Rs.150 spent you will get 2 reward points per card.\n\u2022 The reward points will be subjected to a maximum of 4000 points per statement cycle.\n\u2022 These points can also be redeemed against AirMiles as well.",
+    "fees_and_charges": {
+        "Annual fee": "Free",
+        "Additional card fee": "Free",
+        "Interest-free period": "Upto 50 days",
+        "Minimum repayment amount": "5% or a minimum of Rs.200",
+        "Charges on revolving credit": "34.99% per month\n\u2022 Less than or equal to Rs.5,100: Nil\n\u2022 Rs.5,101 to Rs.5000: Rs.300\n\u2022 Rs.5011 to Rs.10,000: Rs.620\n\u2022 Rs.10,001 to Rs.15,000: Rs.880\n\u2022 Rs.15,001 to Rs.25,000: Rs.970\n\u2022 Rs.25,001 to Rs.50,000: Rs.1100\n\u2022 More than Rs.50,000: Rs.1380",
+        "Late payment charges": null,
+        "Cash advance limit": "40% of the credit limit - Corporate Liability\n50% of credit limit - Individual Liability",
+        "Cash advance charges": "2.5% of the amount withdrawn or Rs.500, whichever is higher",
+        "Charges on over limit account": "2.5% of the over limit amount subjected to a minimum of Rs.500",
+        "Payment return charges": "2% of the payment amount subjected to a minimum of Rs.450",
+        "Balance transfer processing charge": "1% of the balance transfer amount or Rs.250. The higher amount will be taken.",
+        "Cash processing fee": "Rs.100",
+        "Renewal Fee (Charges)": "Rs.125 per card/year",
+        "Fuel surcharge transaction charges": "1% surcharge will be waived off. Maximum waiver is Rs.50 per statement cycle",
+        "Overdue charges processing charges": "Corporate up to Rs.5,000: Rs.25\nCharge valued more than Rs.5,000: Rs.50",
+        "Rewards redemption fee": "Rs.9 per redemption request",
+        "Foreign currency transactions": "2.5%",
+        "Railway ticket purchase fee": "1.8% of the transaction amount + GST",
+        "Reissuance of lost, stolen or damaged card": "Rs.100"
+    },
+    "miscellaneous": "The credit card limit will be at the discretion of the bank as well as the business or corporate company. However, the general factors for the credit limit will all be taken into consideration such as your credit score report as well as your repayment habits of your past and any ongoing loans.",
+    "faqs": {
+        "What is the cash advance fee levied on each withdrawal using your Corporate Platinum Credit Card?": "The cash advance fee levied on the withdrawal using your Corporate Platinum Credit Card is 2.5% of the amount withdrawn or Rs. 500, whichever is higher.",
+        "How is over limit charge calculated on my Corporate Platinum Credit Card?": "Over limit charges are levied on the outstanding amount that exceed the credit limit. The over limit charge is 2.5% of the over limit amount, or Rs.500, whichever is higher.",
+        "From when is the interest charge on cash advance applicable?": "Finance charges applicable on cash advance made accrue from the date of transaction till date of repayment.",
+        "What is the charge levied on exceeding the processing fee?": "For overdue charges levied on transaction of less than or equal to Rs. 5000, the charge levied is Rs.25; and for charge of value more than Rs. 5000, the fee levied is Rs.50.",
+        "Are any charges levied on foreign currency transactions using Corporate Platinum Credit Card?": "Yes, the charges levied is 2.5% on foreign currency transaction."
+    }
+}

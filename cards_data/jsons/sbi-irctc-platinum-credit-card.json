@@ -1,0 +1,54 @@
+{
+    "card_name": "SBI IRCTC Platinum Credit Card",
+    "card_issuer": "SBI Cards",
+    "fee_details": "* 1st-year fee: Rs.500 + Taxes\n* 2nd-year onwards: Rs.500 + Taxes",
+    "joining_perks": "150 bonus reward points on transaction of Rs.500 in 60 days",
+    "reward_structure": "* Railway ticket booking via IRCTC: Rs.125 = 1 point\n* Non-fuel transaction: Rs.125 = 1 point",
+    "key_highlights": "* Get 5% fuel surcharge waiver across all petrol pumps on all transactions ranging between Rs.500 to Rs.3,000\n* Avail up to four complimentary railway lounge services every year (one per quarter).",
+    "benefits_features": {
+        "Welcome benefits": "Get 500 reward points on completing a single transaction worth Rs.500 within 60 days of card activation",
+        "Travel benefits": "Get 5% off on booking railways tickets through IRCTC website\nGet 5% off on booking flights tickets through IRCTC website",
+        "Reward points": "Earn one reward point every Rs.125 spent using IRCTC SBI Platinum credit card",
+        "Railway lounge benefits": "Avail up to four complimentary railway lounge service every year (one per quarter)",
+        "Fuel benefits": "Get 5% fuel surcharge waived across all petrol pumps on all transactions ranging between Rs.500 to Rs.3,000",
+        "Waiver transaction charges": "Save Rs.10 transaction charges on booking railway tickets\nA 5% of the total refund amount will be debited to your card if you cancel the ticket",
+        "Contactless service": "Just wave thru the card at the reader for quicker transactions",
+        "Balance transfer service": "You can transfer your other credit card outstanding balance on this card and pay at a lower rate of interest",
+        "Flexipay": "Convert your transactions made using the card into monthly instalments. Minimum transaction: Rs.2,500 and above. Logon to the relevant section within the 30 days from the timed purchase to convert into Flexipay",
+        "Worldwide acceptance": "This is a co-branded card and it is accepted at over 53 million outlets in India and 29 million outlets worldwide",
+        "Easy cash withdrawal": "You can withdraw cash from more than 1 million ATM across the world using this card",
+        "Add-on card": "Add-on card facility available with this card (minimum age criteria: 18 years)",
+        "Visa offers": "Get offers on dining, travel, golf and entertainment"
+    },
+    "how_tos": {
+        "How to redeem reward points of IRCTC SBI Platinum card": "Step 1: Login into IRCTC, using the registered username and password linked to your railway number.\nStep 2: Choose the reward points option to pay for your new railway ticket at the payment gateway.\nStep 3: Reward points redemption can only be done on confirmed railway tickets booked for AC 1st Class, Executive Chair Car, AC 2 Tier, AC 3 Tier, and AC Chair Car.\nNote: Reward points can also be referred to as IR points."
+    },
+    "reward_point_benefits": "* The reward points can be only redeemed against the total ticket fare; service charge charged by IRCTC included.\n* For individual passengers, the cardholder cannot redeem reward points.\n* For more than one passenger fare or to redeem points equivalent to ticket fare, part payment cannot be made for such transactions.\n* In case you fall short of reward points, you can purchase them at Rs.125 (reward point value).\n* If you cancel the redeemed ticket, only reward points would be credited back to your SBI Reward Points, SBI Travel Reward Points, and Purchase Points and not cash.",
+    "fees_and_charges": {
+        "Annual Fee (First Year)": "Rs.500 + GST",
+        "Renewal Fee (per annum)": "Rs.500 + GST",
+        "Add-on Fee (per annum)": "Nil",
+        "Card replacement fee": "Rs.100",
+        "Cash payment fee": "Rs.250 + Taxes",
+        "Cash advance fee": "2.5% or Rs.500 whichever is higher",
+        "Missed payment charge": "Rs.100",
+        "Late Fee Charges": {
+            "Zero to Rs.5,000": "Nil",
+            "Greater than Rs.5,000 to Rs.10,000": "Rs.500",
+            "Greater than Rs.10,000 to Rs.25,000": "Rs.750",
+            "Greater than Rs.25,000 to Rs.50,000": "Rs.1,100",
+            "Greater than Rs.50,000": "Rs.1300"
+        }
+    },
+    "miscellaneous": "Flexipay is an option provided by SBI wherein you convert your spending into monthly equated installments (EMI). Any transaction over Rs.2,500 can be converted into EMI within 30 days of the spend.",
+    "faqs": {
+        "What is the SBI IRCTC Platinum Credit Card Card supply number?": "The 11-digit number that is printed below the cardholder's name on the SBI IRCTC Platinum Credit Card is the loyalty number.",
+        "For how long are reward points valid?": "The reward points will lapse after a period of three years from the date of membership registration.",
+        "What if I lose my credit card and how will I face the renewal fee?": "The IRCTC SBI Platinum credit card comes with a reward point expiry policy. In case of loss of the card, you can always request for a replacement. The renewal fee is dependent on your credit score.",
+        "Will I get reward points for tickets booked through mobile application?": "No, you will not get SBI reward points for tickets booked through mobile application.",
+        "Can I transfer my SBI reward points earned through credit card mobile application?": "No, these reward points cannot be transferred or considered or combined with points earned on any other SBI Card.",
+        "Is it possible to redeem reward points for cash?": "Yes, it is possible to redeem your reward points for cash. For this, you can contact SBI credit card customer care.",
+        "What is Flexipay?": "Flexipay is an option provided by SBI wherein you convert your spending into monthly equated installments (EMI). Any transaction over Rs.2,500 can be converted into EMI within 30 days of the spend.",
+        "Can I add an add-on card holder for Flexipay?": "No, only a primary card holder can opt for Flexipay."
+    }
+}

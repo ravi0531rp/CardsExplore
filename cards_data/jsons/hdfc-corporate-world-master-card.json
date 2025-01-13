@@ -1,0 +1,46 @@
+{
+    "card_name": "HDFC Bank Corporate World MasterCard Credit Card",
+    "card_issuer": "HDFC Bank",
+    "fee_details": "- Rs.0 for 1st year\n- Rs.10 per annum from 2nd year onwards",
+    "joining_perks": "- No joining perks",
+    "reward_structure": "- Earn reward points for every Rs.150 spent on the card.\n- 2 reward points for every Rs.150 spent",
+    "key_highlights": "- 24/7 availability of the Management Information System\n- MIS reports for better working of businesses and corporations.\n- Earn reward points for every Rs.150 spent on the card.\n- 1% fuel surcharge waiver on fuel spends.\n- Up to 50 days of interest-free purchases",
+    "benefits_features": {
+        "Corporate Benefits": "With MIS reports, companies and businesses can operate effectively and efficiently by keeping an eye on their expenses and spending analysis.\n- Tie-up with airlines and hotels can help save money for business.\n- Streamlined accounting procedures which consolidate data from all around the world.\n- Making a paperless industry by reduction of paperwork and simplifying tasks",
+        "Reward Point Benefits": "Every Rs.150 spent on the card will get you 2 reward points.",
+        "Lounge Access Benefits": "With the credit card, you get a complimentary Priority Pass Membership.\n- You will have preferential access to more than 1,000 airport lounges all over the world.\n-With this membership, a complimentary airport lounge visit at a location outside the country in a year.\n- The World MasterCard credit card also provides you with the benefit of exclusive lounge access.\n- This enables you to complimentary lounge visits in a year in India",
+        "Fuel Benefits": "The fuel surcharge of 1% will be waived for all your fuel purchases made on the credit card.\n- Your total expenses must be between Rs.4,000 and Rs.5,000 for the waiver.\n- The minimum surcharge is Rs. 1,000 per statement cycle."
+    },
+    "how_tos": {
+        "How to redeem reward points accumulated on my card?": "You can redeem reward points earned through online or offline methods. If you wish to redeem offline, you will need to download the reward points redemption form from the HDFC Bank website. The details will be sent to the nearest HDFC Bank branch to you.",
+        "How to make a credit card payment?": "You can make a credit card payment over the counter and also make an NEFT payment. HDFC Bank accounts can use auto pay, fund transfer or net banking to make a credit card payment.",
+        "What to do if I forget my PIN?": "You can apply for a duplicate PIN online (NetBanking). After successful automation of the request, the PIN will be sent to your registered address within 10 days. Also, you can use phone banking services to request a PIN change."
+    },
+    "reward_point_benefits": "- With this card, you will receive 2 reward points for every Rs.150 spent.\n- There will not be any points given for fuel transactions.\n- The points which are redeemed for the card products at the rewards catalogue of HDFC Bank.\n- The points can be added to a maximum of 2 years from the date of its accumulation.",
+    "fees_and_charges": {
+        "Annual fee": "Free",
+        "Minimum repayment amount": "50% or a minimum of Rs.500",
+        "Charges on revolving credit": "3.25% per month",
+        "Interest-free period": "Up to 50 days",
+        "Late payment charges": "- Less than or equal to Rs.100: Rs.100\n- Rs.101 to Rs.500: Rs.101\n- Rs.501 to Rs.1,000: Rs.300\n- Rs.1,001 to Rs.5,000: Rs.500\n- Rs.5,001 to Rs.10,000: Rs.650\n- Rs.10,001 to Rs.25,000: Rs.750\n- Rs.25,001 to Rs.50,000: Rs.800\n- Rs.50,001 to Rs.1,00,000: Rs.1,100\n- More than Rs.1,00,000: Rs.1,300",
+        "Additional card fee": "Free",
+        "Payment return charges": "2% of the payment amount subjected to a minimum of Rs.100",
+        "Cash advance limit": "Corporate liability: 40% of the credit limit\nIndividual liability: 20% of the credit limit",
+        "Cash advance charges": "2.5% of the amount withdrawn with Rs.250, whichever is higher",
+        "Charges on over limit account": "2.5% of the over-limit amount subjected to a minimum of Rs.300",
+        "Chequization/cheque processing charges": "Cheque valued up to Rs.5,000: Rs.25\nCheque valued of more than Rs.5,000: Rs.50",
+        "Cash processing fee": "Rs.100",
+        "Balance transfer processing charges": "1% of the balance transfer amount or Rs.250, the higher amount will be taken",
+        "Rewards redemption fee": "Rs.50 per redemption request",
+        "Railway ticket surcharge": "1.5% of the transaction amount + GST",
+        "Foreign currency transactions": "3.5%",
+        "Reissuance of active, lost or damaged card": "Rs.100",
+        "Fraud transaction charges": "Rs. 1,000 per statement cycle (will be waived off)"
+    },
+    "miscellaneous": "The credit limit of the HDFC credit card is completely at the discretion of HDFC Bank. The bank takes several factors into consideration before allotting a limit. Since this is a corporate credit card, your company will have a role in deciding the credit limit.",
+    "faqs": {
+        "How do I apply for HDFC Credit Card Service?": "If you are a registered HDFC customer, but aren't registered for NetBanking you can do so by requesting for services at any physical branch. Customers who have a NetBanking access can log in and click the credit card section to explore more options.",
+        "What are the late payment charges?": "If the minimum amount due is not paid before the payment due date, then late payment charges will be levied. The charge will range from Rs.100 to Rs.1300 depending on the statement balance range.",
+        "What can I do if I forget my PIN?": "You can apply for a duplicate PIN online (NetBanking). After successful automation of the request, the PIN will be sent to your registered address within 10 days. Also, you can use phone banking services to request a PIN change."
+    }
+}

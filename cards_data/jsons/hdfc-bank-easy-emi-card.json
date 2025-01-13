@@ -1,0 +1,42 @@
+{
+    "card_name": "HDFC Bank Easy EMI Card",
+    "card_issuer": "HDFC Bank",
+    "fee_details": "* Rs.500 Waiver on joining fee if the first year spends cross Rs.50,000\n* 1st Year: Rs.500 Waiver on completing transactions of Rs. 1 lakh in a month for 3 consecutive months or spending of Rs. 200000 in 1 year\n* 2nd Year Onwards: Rs. 500 Waiver on annual spends above Rs. 50000\n*Lifetime FREE on completing transactions of Rs. 5 lakh in a month for 3 consecutive months",
+    "joining_perks": "Welcome gift of Rs.500 worth of vouchers, applicable on paying membership fee online",
+    "reward_structure": "* Shopping on Paytm, PhonePe: 2% cashback on spends of Rs. 2,000\n* Online spends: 2.5% cashback on spends of Rs. 7,000\n* Offline spends (outside malls): 2% cashback on spends of Rs. 4,000",
+    "key_highlights": "* Auto EMI conversion on transactions above Rs. 10,000 (up to 9 months EMIs)\n* Numerous cashback benefits on online and offline spends, as well as travel related cashbacks\n* CashPoints can be redeemed at the SmartBuy Rewards Portal against travel and hotel bookings\n* Contactless payment facility for fast, secure, and convenient payments. For transactions up to Rs. 20000\n* 1000+ merchants provide EMI offers",
+    "benefits_features": {
+        "Welcome Benefits": "Waiver of first-year membership fee on transaction worth Rs. 20,000 made in the first 3 months. Smooth waiver of annual membership fee for Rs. 50,000 spent in a year in the first year. On payment of membership fee, get Rs. 500 as a welcome as well as renewal benefit",
+        "Milestone Benefits": "Get Rs.1,000 worth gift vouchers once spends of Rs. 1 lakh and above done in a calendar quarter for the first year only.",
+        "Fuel Benefits": "Fuel surcharge waiver of 1% for minimum Rs. 700 transactions, maximum Rs.200 cashback per statement cycle.",
+        "Cashback Benefits": "1% Cashback on offline spends, while spends (P2P/ebills, etc.) up to Rs.200 per month\n2.5% Cashback on online spends via apps other than Paytm and PhonePe up to Rs. 750 per month\n5% Cashback on spends on two favourite apps (other than Paytm and PhonePe) up to Rs. 2000 per month (minimum transactions)"
+    },
+    "how_tos": {
+        "How to Apply": "1. Visit the official website of HDFC Bank (www.hdfcbank.com)\n2. Click on the 'Apply Now' tab from the top menu.\n3. Click on 'Credit Card' option from the drop-down menu.\n4. You will be required to fill up your personal details such as first name, last name, mobile number, and PAN number on the next page.\n5. Fill up the Captcha code and tick the box to authorize the bank and its representatives to get in touch with you.\n6. Click on the 'Submit' button.\nThe representatives of the bank will get in touch with you shortly."
+    },
+    "reward_point_benefits": null,
+    "fees_and_charges": {
+        "Joining fee": "Rs. 500",
+        "Renewal fee": "Rs. 500",
+        "Minimum repayment amount": "5% or a maximum of Rs. 200",
+        "Cash withdrawal fee": "2% of the withdrawal amount (Minimum Rs. 500)",
+        "Cash advance limit": "40% on the credit limit",
+        "Rewards redemption fee": "Nil",
+        "Add-on card charges": "Nil",
+        "Foreign currency markup fee": "1.99%\nLess than or equal to Rs.200: Nil\nRs.201 to Rs.500: Rs. 150\nRs.501 to Rs. 1000: Rs.250\nRs.1001 to Rs.5,000: Rs.600\nRs.5,001 to Rs. 10,000: Rs.750\nRs.10,001 to Rs.25,000: Rs.900\nRs.25,001 to Rs.50,000: Rs.1100\nMore than Rs.50,000: Rs.1300",
+        "Late payment charges": "2.5% of overdue amount (the limit is Rs.750)",
+        "Over limit fee": "2.5% of the increase amount (Minimum Rs.500)",
+        "Cash processing fee": "Rs. 100 per transaction",
+        "Payment return charges": "2% of the payment amount (Minimum of Rs.60)",
+        "Card re-issuance charges": "Rs.200 per instance",
+        "Duplicate statement": "Rs.10"
+    },
+    "miscellaneous": "The credit limit (HDFC Bank Easy EMI Credit card)will not be decided by the institution. There are various factors which are taken into consideration to decide the credit limit which will be offered to an individual. Some factors are credit score, credit history, and annual income of the applicant. The credit limit differs from customer to customer.",
+    "faqs": {
+        "After applying for the credit card how can I know about the status of my application?": "You can track your HDFC credit card application status by logging in to your account on the official website and your mobile number or application number or date of birth along with your mobile number or your application number. https://www.hdfcbank.com/personal/credit-cards/track",
+        "What merchant categories can the credit card be used in?": "It can be used for travel, movies, shopping, apparel, and all other merchant categories.",
+        "What is the interest-free credit period?": "The interest-free credit period is below 20 days (Below 20 days depending on other factors; providing the previous month's balance has been paid in full).",
+        "Can I convert transactions below Rs. 10,000 into EMIs?": "Only transactions above Rs. 10,000 can be converted into EMIs(Auto EMIs).",
+        "How is the interest calculated?": "The interest is calculated using the following formula: Outstanding amount x 24% x (number of months/365) days."
+    }
+}

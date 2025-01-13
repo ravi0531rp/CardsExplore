@@ -1,0 +1,45 @@
+{
+    "card_name": "ICICI Sapphiro Credit Card",
+    "card_issuer": "ICICI Bank",
+    "fee_details": "- Joining Fee: Rs.6,500\n- Annual Fee: Rs. 3,500 (waived if more than Rs. 1 lakh is spent in the previous year)",
+    "joining_perks": "Welcome offer: When you become a customer of the ICICI Bank Sapphiro VISA credit card, you will be gifted with a set of Boat EZ Headphones.",
+    "reward_structure": "- Reward points: Under the hand-picked reward scheme, you can enhance your shopping experience. Get 2x points for every Rs. 300 spent domestically. For international spending, you will receive 2x points and redeem them instantly. You earn points from a wider array of options that includes air tickets, apparels, fragrances, holiday trips, dining, home entertainment and several tech gadgets.",
+    "key_highlights": "- Chip and PIN enabled\n- International transactions\n- Complimentary airport lounge access",
+    "benefits_features": {
+        "Travel benefits": "Get complimentary Priority Pass that gives you access to more than 1,300+ airport lounges across the world at all the leading airports. Rest, relax and freshen up in your travels no matter which class or airline you fly. Lounge will be applicable per visit. Also get VISA privileges that include 2 free lounge access every quarter at participating airport lounges.",
+        "Fuel benefits": "Save up to 2.5% on fuel surcharge waiver. Valid on transactions up to Rs. 4,000.",
+        "Dining benefits": "Avail benefits and discounts at various restaurants.",
+        "Renewal benefits": "Nil",
+        "Lounge benefits": "Get complimentary Priority Pass that gives you access to more than 1,300+ airport lounges across the world at all the leading airports. Rest, relax and freshen up in your travels no matter which class or airline you fly. Lounge will be applicable per visit. Also get VISA privileges that include 2 free lounge access every quarter at participating airport lounges."
+    },
+    "how_tos": {
+        "How to pay your credit card bill": "- Drop a cheque or use an NEFT/ RTGS/ IMPS at any ICICI Bank branch.\n- Pay via any ICICI Bank branch.\n- Request that the bill amount be automatically debited from your ICICI Bank account.\n- You can access your account through the internet or mobile banking and pay your bill through your ICICI Bank account.\n- You can use Click to Pay, or NEFT through your full banking, or any other account.\n- You can also call customer care to pay your credit card bill by providing them the necessary information.",
+        "How to get a replacement card": "If your card is lost, misplaced or damaged, requests for a new card can be made through the ICICI Bank customer service internet banking or at the Bank branch. The lost card will be deblocked and instantly blocked through the replacement credit card and you will receive your card within 7 working days."
+    },
+    "reward_point_benefits": "Under the hand-picked reward scheme, you can enhance your shopping experience. Get 2x points for every Rs. 300 spent domestically. For international spending, you will receive 2x points and redeem them instantly. You earn points from a wider array of options that includes air tickets, apparels, fragrances, holiday trips, dining, home entertainment and several tech gadgets.",
+    "fees_and_charges": {
+        "Joining Fee": "Rs.6,500",
+        "Annual Fee": "Rs.3,500 (waived if more than Rs.1 lakh is spent in the previous year)",
+        "Supplementary Card": "Nil",
+        "Interest on extended credit or overdue interest": "3.40% per month (40.80% per annum)",
+        "Cash advance transaction charge": "Rs. 300 or 2.5% of transaction amount, whichever is higher",
+        "Interest on cash advance": "3.40% per month or 40.80% per annum",
+        "Card replacement": "Rs. 100",
+        "Charge slip request": "Rs. 100",
+        "Rewards redemption": "Rs. 99 + service tax is levied for handling and courier",
+        "Cash payment at bank branch": "Rs. 100",
+        "Cheque or cash pick up": "Rs. 100",
+        "Outstation cheque processing charge": "2% of the cheque amount, subject to a minimum of Rs. 100",
+        "Cheque return": "2% of the total amount payable, subject to a minimum of Rs. 250",
+        "Auto Debit return fee": "Rs. 200 or 2% of the total amount payable, whichever is higher",
+        "Overlimit": "Rs. 500 or 2.5% of the overlimit amount, whichever is higher",
+        "Late Payment Charges-Total Amount Due": "Rs. 0 - Rs. 99.99 - Nil\nRs. 100 - Rs. 500 - Rs. 100\nRs. 500 - Rs. 10000 - Rs. 500\nAbove Rs. 10000 - Rs. 750"
+    },
+    "miscellaneous": "ICICI Bank Sapphiro VISA credit card is embedded with microchip technology that enhances the security of your card. It gives you additional protection against frauds, counterfeiting and card skimming. Plus, the added layer of the Personal Identification Number will ensure you verify each transaction.",
+    "faqs": {
+        "When will I receive my welcome offer from the BankBazaar?": "After you start using the ICICI Bank Sapphiro credit card, you will receive the complimentary set of Boat EZ Audio Headphones within 30 days.",
+        "How safe is it to use my credit card for online transactions?": "Your credit card is secured with VISA to ensure that all online transactions are secured and safe for you. For online transactions, you need to provide your 3D Secure code/ Verified by VISA to proceed with the PIN which is required for any merchant website.",
+        "What happens if I default on my credit card payments?": "When you default, an interest rate is automatically applied to your charges. Depending on the amount you own the bank, the penalty will be levied. Apart from this, the interest rate can be up to 3.50% per month. For overdue payments on the minimum amount on your credit card that has to be paid, follow the protocol and report to ICICI. This will affect your credit score. Ensure you pay at least the minimum due to avoid these consequences.",
+        "How do I get my ICICI Bank Sapphiro credit card replaced?": "If your card is lost, misplaced or damaged, requests for a new card can be made through the ICICI Bank customer service internet banking or at the Bank branch. The lost card will be deblocked and instantly blocked through the replacement credit card and you will receive your card within 7 working days."
+    }
+}

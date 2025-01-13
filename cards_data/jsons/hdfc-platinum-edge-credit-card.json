@@ -1,0 +1,41 @@
+{
+    "card_name": "HDFC Bank Platinum Edge Credit Card",
+    "card_issuer": "HDFC Bank",
+    "fee_details": "- 1st Year: Rs. 500 waived off on spends of Rs.100000 in first 90 days\n- 2nd Year Onwards: Rs. 500 (Waived off on annual spends above Rs.100000)",
+    "joining_perks": "No joining perks",
+    "reward_structure": "Earn 280 per Rs.150 spent on retail transactions.\nAccumulate points and redeem for cashback at the rate of 10 points=Rs.10 cashback.\nAlso redeem points for air miles and gifts from the bank\u2019s exclusive rewards catalogue.",
+    "key_highlights": "- This is what the card offers you:\n- Reward Points (Rs. 280 per Rs.150 spent on retail and dining transactions)\n- Complimentary Accidental Death Insurance up to Rs.50 lakh.",
+    "benefits_features": {
+        "Rewards": "Earn 280 per Rs.150 spent on retail transactions.\nAccumulate points and redeem for cashback at the rate of 10 points=Rs.10 cashback.\nAlso redeem points for air miles and gifts from the bank\u2019s exclusive rewards catalogue.",
+        "Dining": "Earn 50% more Reward Points on your dining spends.\nThis is applicable to transactions made under \"Restaurant\" (MCC) merchant category code and those not classified under Hotel MCC.",
+        "Fuel": "Enjoy 1% fuel surcharge waiver on minimum transaction of Rs.400.\nEarn a maximum of Rs.200 per statement cycle.",
+        "Insurance Benefits": "Complete at least 5 transactions per month and enjoy the following complimentary insurance covers:\n- Accidental Death Insurance for up to Rs.50 lakh.\n- Fire and Burglary Cover for 180 days for purchases above Rs.5,000. Maximum cover of Rs.2 lakh with a sub-limit of Rs.25,000 for personal portable equipment.",
+        "Secure transactions": "This card can be used at chip-enabled or dip-enabled POS (point of sale) terminals for convenient payments. Dip your card onto a chip-enabled POS terminal or swipe it at a magnetic-strip terminal to complete your transaction.",
+        "Zero liability on card loss": "Report the loss of your card immediately to HDFC\u2019s call centre. It\u2019s available 24 hours, and you\u2019re not liable for any fraudulent transaction charged to your card.",
+        "Interest-free credit": "Enjoy up to 50 days of interest-free credit on purchases from your purchase date."
+    },
+    "how_tos": {
+        "Online": "Special HDFC NetBanking: Access your online account, and ensure your username and password are correct.\nLocate the \u2018Credit Card\u2019 tab and click on it.\nYou will have to complete a one-time registration for your credit card by clicking on \u2018Register Now\u2019. This option is found on the left-hand side of the navigation bar.\nComplete the registration process by entering your 4-digit PIN.\nNext, locate the \u2018Redeem Reward Points\u2019 tab on the left-hand side of the navigation bar and click on it. Click on \u2018Continue\u2019 to go to the Online Redemption portal.\nOn the Online Redemption homepage, click on \u2018Redeem Reward Points\u2019.\nSelect your \u2018Points Range\u2019, based on your accumulated points and then browse by \u2018Category\u2019 item from the catalog.\nAdd items to your shopping cart.\nClick on the \u2018View Shopping Cart\u2019 option to review your selected items. You can modify the quantity by using the \u2018Update\u2019 option.\nRead the \u2018Terms and Conditions\u2019 and check the box confirming the same.\nClick on the \u2018Redeem\u2019 option to complete the process. You will receive a Redemption Order Number. Save this number in case of any future discrepancy. The items you have redeemed will be sent to the address you have on the Redemption portal. If there is a discrepancy regarding the address, then do not proceed with your redemption. You will have to contact the bank\u2019s customer service to update your registered address.",
+        "Offline": "Check your available points on the NetBanking portal or on your credit card statement.\nSelect the reward of your choice and generate the coupon for the same.\nPost this coupon along with the delivery coupon to Reward Points Coupons. Its exact location on the bank\u2019s website for downloads and address details by your post.\nThe redeemed item will be delivered to your registered address in 10 to 15 business days."
+    },
+    "reward_point_benefits": "As previously mentioned here are the reward points benefits you will enjoy on your HDFC card:\nEarn 280 Reward points per Rs.150 spent using your card on retail transactions.\nAccumulate points and redeem for cashback, points, or air miles.\nAny transaction below Rs.150 can\u2019t earn any reward points. Also, only retail transactions will earn Reward Points.",
+    "fees_and_charges": {
+        "Joining fee": "Rs.1000",
+        "Renewal fee": "Rs.1000",
+        "Interest rate": "3.49% p.m (41.88% p.a)",
+        "Interest-free period": "Maximum 50days",
+        "Minimum payment": "Rs.200/ Rs.5% of the outstanding balance; the higher of the two\nLess than or equal to Rs.5,000: Nil\nRs.5,001 to Rs.5,500: Rs.500\nRs.5,501 to Rs.10,000: Rs.900\nRs.10,001 to Rs.25,000: Rs.1,750\nRs.25,001 to Rs.50,000: Rs.2,750\nRs.50,001 to Rs.1,00,000: Rs.4,000\nMore than Rs.1,00,000: Rs.1,100",
+        "Late payment fee": "Rs.500",
+        "Rewards redemption fee": "Rs.99 per redemption",
+        "Cash advance limit": "Maximum 40% of the limit",
+        "Replacement card in case of damage": "Rs.100"
+    },
+    "miscellaneous": "When issuing you with the credit card, HDFC will inform you of the credit limit available to you. The credit limit extended to you will be based on numerous factors including but not limited to your credit history, employment status, assets, liabilities, and other debt obligations.",
+    "faqs": {
+        "1. Is there a validity period for Rewards Points earned on my card?": "Yes. Rewards Points will be valid for a period of 2 years from the account\u2019s date. For example: If you accumulated your points in June 2023, then they will be valid until June 2025.",
+        "2. What is the minimum number of Reward Points required for redemption?": "You need to accumulate a minimum of 2,500 Reward Points to redeem for rewards from the rewards catalogue.",
+        "3. Will I earn Rewards Points on paying my insurance premiums with my HDFC credit card?": "Yes. You will earn points on any insurance payments you have with HDFC. However, the cap on the points earning on insurance payments is 2,000 points per transaction.",
+        "4. Can I use my credit card to make online purchases?": "Yes. You can make online purchases using this HDFC card.",
+        "5. How is the accidental death & other insurances provided on this card?": "All claims must be informed to HDFC within 30 days of the incident, and in case of fire & burglary claims, insurance must be claimed within 15 days of the loss."
+    }
+}

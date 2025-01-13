@@ -1,0 +1,45 @@
+{
+    "card_name": "HDFC Business MoneyBack Credit Card",
+    "card_issuer": "HDFC Bank",
+    "fee_details": "- Rs.1000 + 18% GST (first year)\n- Rs.1000 +18% GST (subsequent years)",
+    "joining_perks": "No joining perks",
+    "reward_structure": "- Online spends - Rs.100 = 4 Points\n- Offline spends - Rs.150 = 4 Points",
+    "key_highlights": "- Cashback on business transactions\n- Annual fee waiver\n- Spend based benefits\n- Waiver on fuel surcharge\n- Balance Transfer\n- EMI facility\n- No liability on lost card\n- Security",
+    "benefits_features": {
+        "Cashback on business transactions": "As the name suggests, the MoneyBack credit card provides cashback of 5% on key business spends related to petrol, cab, online service telecom payments, electricity payments, railway, government and tax-related spends.",
+        "Annual fee waiver": "Spend Rs.2,50,000 or above in a membership year and avail annual fee waiver for the next year's annual fee.",
+        "Spend based benefits": "On annual spends of Rs.1,20,000 which you will earn 2,500 reward points each year on your anniversary year.\nBy conducting minimum four transactions each of Rs.100 and above each MoneyBack Credit Card in a calendar month, you will be eligible for:\n- complimentary accident insurance cover\n- For an additional protection against injury and burglary for items worth above Rs.5000 purchased using this credit card",
+        "Waiver on fuel surcharge": "Every fuel transaction made within the range of Rs.500 to Rs.5000 entitles you to a waiver of up to Rs.250 per statement.",
+        "Balance Transfer": "Transfer outstanding balance on your existing credit card to HDFC MoneyBack Credit Card and enjoy low interest rate offered by HDFC. Balance transfer is applicable to a minimum amount transfer of Rs.2500 and a maximum of Rs.1lakhs.",
+        "Avail a loan on credit card": "You can also apply for a loan against your HDFC Business MoneyBack Credit Card.",
+        "Easy EMIs": "Convert purchases made at partner outlets into easy monthly instalments (EMIs) instantly. No documentation required. A one-time processing fee is well charged at prevailing rate.\nCardholders can enjoy up to 90 days of interest-free period from the purchase date.",
+        "No liability on lost card": "In case, your Business MoneyBack Card is misplaced you inform HDFC Bank (Debit Card Bank) call centre immediately. Following the complaint, you will have zero liability on any fraudulent transactions made using your credit card.",
+        "Security": "The HDFC Business MoneyBack Credit Card is a chip embedded card and can be used at any chip embedded POS or at any regular swipe/magstripe POS."
+    },
+    "how_tos": {
+        "How to use my HDFC Business MoneyBack card at a POS terminal or at an ATM?": "The merchant simply taps them on the POS terminal for contactless tapping. It won't be the transaction charge; it is entered and the card's held until a printed slip is required for them to sign the slip.",
+        "Can I use my HDFC Business MoneyBack Credit Card for online transactions?": "Yes, however, an HDFC debit card must be registered/Verified by Visa/MasterCard Secure Code. This registration ensures that the virtual transaction is secure and the card is not used to fraud.",
+        "How do I make payments for my Business MoneyBack Card from HDFC?": "You can either pay HDFC Business MoneyBack Card payment at the ATM or via NetBanking.",
+        "Can I use the HDFC Business MoneyBack Credit Card anywhere in the world?": "Yes, you can use the HDFC card everywhere wherever Visa and Mastercard is accepted, however, a foreign currency mark-up fee(up to 3.5% of the transaction amount) will be charged each time you use it."
+    },
+    "reward_point_benefits": "- Every Rs.150 spent on flight bookings, hotel reservations, travelling, restaurants, and online airline ticket selling, you can get reward points.\n- Get up to 20 reward points on spends at participating merchants. Maximum reward points are capped at 2,500 per statement cycle.",
+    "fees_and_charges": {
+        "Annual Fee": "Rs.1,000",
+        "Minimum Amount Due": "5% or Rs.250",
+        "Interest-Free Period": "Max. 50 days",
+        "Cash Withdrawal Limit": "40% of the credit limit",
+        "Add on card fee": "NIL",
+        "Interest Charges": "3.49% per month or 43.88% per annum",
+        "Cash Withdrawal Charges": "2.5% of withdrawn amount or Rs.500 whichever is higher",
+        "Over Limit Charges": "2.5% of over limit amount, subject to minimum of Rs.500",
+        "Cash Purchase Processing Fee": "Rs.100",
+        "Rewards Redemption Fee": "Rs.99 per request\n- Less than or equal to Rs.500 - NIL\n- Rs.501 to Rs.2,500 - Rs.300\n- Rs.2,501 to Rs.1,000 - Rs.500\n- Rs.5,001 to Rs.10,000 - Rs.600\n- Rs.10,001 to Rs.25,000 - Rs.700\n- Rs.25,001 to Rs.50,000 - Rs.1,000\n- More than Rs.50,000/Rs.2,000",
+        "Late Payment Fee": "Rs.500",
+        "Card fee insurance fee": "Rs.500",
+        "Overdue Cheque Processing Fee": "Up to Rs.150"
+    },
+    "miscellaneous": "HDFC Business MoneyBack Credit Card Eligibility Criteria:\n- Applicant must be self-employed businessman or professional\n- Should be in the age group of 21 to 65 years\n- Should have the minimum tax return income of Rs.2 Lakh or over",
+    "faqs": {
+        "What in case of stolen or lost card respond?": "In case of stolen or lost card you can call the 24*7 HDFC credit card customer care to report the loss."
+    }
+}
